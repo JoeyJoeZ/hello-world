@@ -2,4 +2,4 @@
 
 Hi!
 
-I'm Joe. I'm here to try out Github and learn Git.
+I'm here to try and publicly host a game in a pretty simple way.
